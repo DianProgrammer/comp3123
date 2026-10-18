@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const notesRoutes = require('./routes/notesRoutes');
 const PORT = process.env.PORT || 8081;
 
-const DB_URL = 'mongodb+srv://kianasepasian_db_user:3OMNWEbvoFd6c1r7@week06cluster.ii3rvxc.mongodb.net/';
+const DB_URL = 'mongodb+srv://kianasepasian_db_user:HEfjT9JM5!2K6g8@week06cluster.ii3rvxc.mongodb.net/';
 const app = express();
 
 // Middleware
