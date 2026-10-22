@@ -1,0 +1,53 @@
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.content-box {
+  width: 90%;
+  max-width: 950px;
+  padding: 35px 25px;
+  background-color: white;
+  box-shadow: 0 0 15px 6px #8be5fa;
+  box-sizing: border-box;
+}
+
+.App-logo {
+  width: 260px;
+  max-width: 80%;
+  height: auto;
+  margin-bottom: 25px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 21px;
+  margin-bottom: 18px;
+}
+
+h4 {
+  font-size: 19px;
+  margin-bottom: 18px;
+}
+
+h5 {
+  font-size: 17px;
+  margin-bottom: 0;
+}
