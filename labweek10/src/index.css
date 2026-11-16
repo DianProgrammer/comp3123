@@ -1,0 +1,19 @@
+/* Basic page styling */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+  color: black;
+}
+
+/* Main React application */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Page heading */
+h1 {
+  color: black;
+}
